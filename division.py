@@ -6,3 +6,11 @@ num2 = float(input("Enter second number: "))
 result = num1 / num2
 
 print("Division =", result)
+
+
+
+
+#output:
+#Enter first number: 49
+#Enter second number: 7
+#Division = 7.0
