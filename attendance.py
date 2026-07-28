@@ -1,4 +1,4 @@
-p_days=int(input())
+p_days=int(input("present days="))
 
 if p_days<=210:
     # calculate percentage
@@ -20,3 +20,12 @@ if p_days<=210:
         
 else:
     print("Invalid")
+
+
+
+
+    '''
+present days=200
+95.23809523809523
+You are allowed in the examination.
+    '''
